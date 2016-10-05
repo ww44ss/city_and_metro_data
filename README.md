@@ -4,10 +4,10 @@ It also contains the data from these downloads in csv files.
 
 # R scripts  
 get_city_pop_table_2015.R
-- reads data from [wikipedia](https://en.wikipedia.org/wiki/List_of_United_States_cities_by_population)
+- reads data from [wikipedia](https://en.wikipedia.org/wiki/List_of_United_States_cities_by_population), cleans and stores the data as a csv file `city_pop_table_2015.csv`.
 
 get_metro_pop_table_2015.R
-- reads data from [wikipedia](https://en.wikipedia.org/wiki/List_of_Metropolitan_Statistical_Areas), cleans, and stores the data as a csv.  
+- reads data from [wikipedia](https://en.wikipedia.org/wiki/List_of_Metropolitan_Statistical_Areas), cleans, and stores the data as a csv file `metro_pop_table.csv`.   
 
 # data files and variables 
 city_pop_table_2015.csv
